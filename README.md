@@ -6,7 +6,7 @@ I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
   <img 
     src="https://img.shields.io/badge/LinkedIn-blue"
     alt="LinkedIn"
-    style="height: 35px;"
+    style="height: 32px;"
   >
 </a>
 
