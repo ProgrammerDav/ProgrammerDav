@@ -1,10 +1,7 @@
 # <div align="center"> <samp>David Pardo Puebla </samp></div>
 
 <a href="www.linkedin.com/in/david-pardo-puebla-484a65299" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  >
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 
 <!--
