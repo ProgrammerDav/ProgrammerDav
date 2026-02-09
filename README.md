@@ -1,4 +1,4 @@
-# <div align="center"> <samp>David Pardo Puebla </samp></div>
+# ![Descripción de la imagen](githubnombre.png)
 
 I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
 
