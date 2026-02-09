@@ -1,8 +1,16 @@
 # <div align="center"> <samp>David Pardo Puebla </samp></div>
 
+I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
+
 <a href="www.linkedin.com/in/david-pardo-puebla-484a65299" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-blue"
+    alt="LinkedIn"
+    style="height: 40px;"
+  >
 </a>
+
+
 
 
 <!--
