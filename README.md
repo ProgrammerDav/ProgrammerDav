@@ -1,6 +1,9 @@
 # <div align="center"> <samp>David Pardo Puebla </samp></div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU_USUARIO/](https://www.linkedin.com/in/david-pardo-puebla-484a65299/))
+<a href="https://www.linkedin.com/in/david-pardo-puebla-484a65299/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn">
+</a>
+
 
 <!--
 **ProgrammerDav/ProgrammerDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
