@@ -2,7 +2,7 @@
 
 I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
 
-<a href="www.linkedin.com/in/david-pardo-puebla-484a65299" target="_blank">
+<a href="https://www.linkedin.com/in/david-pardo-puebla-484a65299" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-blue"
     alt="LinkedIn"
