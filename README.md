@@ -1,5 +1,5 @@
-##           David Pardo Puebla
-
+# <div align="center"> <samp>David Pardo Puebla </samp></div>
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue">
 <!--
 **ProgrammerDav/ProgrammerDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
