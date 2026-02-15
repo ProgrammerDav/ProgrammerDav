@@ -46,7 +46,7 @@ I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
   <td align="center">
     <a href="https://github.com/ProgrammerDav/money-management-app/tree/main">
       <img src="https://github.com/ProgrammerDav/money-management-app/blob/main/app/src/main/res/mipmap-xhdpi/ic_logo_foreground.webp"><br>
-      <strong>Moner Management App</strong>
+      <strong>Money Management App</strong>
     </a>
   </td>
  </tr>
