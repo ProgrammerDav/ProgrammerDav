@@ -10,7 +10,7 @@ I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
   >
 </a>
 
----
+--- 
 
 #  🧰 Skills
 
@@ -32,6 +32,25 @@ I'm a junior programmer with knowledge of Java, C#, C++, JavaScript, and Python.
 <a href="https://en.wikipedia.org/wiki/HTML">![HTML](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)</a>
 <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white)</a>
 
----
+--- 
+
+## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="38"> Featured Projects
+<table style="width:100%">
+ <tr>
+  <td align="center">
+    <a href="https://github.com/ProgrammerDav/Final-year-project">
+      <img src="https://github.com/ProgrammerDav/Final-year-project/blob/main/logo.png"><br>
+      <strong>Final Year Project</strong>
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/ProgrammerDav/money-management-app/tree/main">
+      <img src="https://github.com/ProgrammerDav/money-management-app/blob/main/app/src/main/res/mipmap-xhdpi/ic_logo_foreground.webp"><br>
+      <strong>Moner Management App</strong>
+    </a>
+  </td>
+ </tr>
+</table>
+
 
 <img src="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
